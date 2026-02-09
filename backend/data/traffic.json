@@ -1,0 +1,14 @@
+[
+  { "time": "00:00", "messages": 20 },
+  { "time": "02:00", "messages": 35 },
+  { "time": "04:00", "messages": 22 },
+  { "time": "06:00", "messages": 50 },
+  { "time": "08:00", "messages": 90 },
+  { "time": "10:00", "messages": 120 },
+  { "time": "12:00", "messages": 140 },
+  { "time": "14:00", "messages": 110 },
+  { "time": "16:00", "messages": 80 },
+  { "time": "18:00", "messages": 60 },
+  { "time": "20:00", "messages": 55 },
+  { "time": "22:00", "messages": 40 }
+]

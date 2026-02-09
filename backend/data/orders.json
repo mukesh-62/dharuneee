@@ -1,0 +1,5 @@
+[
+  { "id": 1, "patient": "John Doe", "modality": "CT", "status": "Completed", "date": "2024-02-04" },
+  { "id": 2, "patient": "Sarah Lee", "modality": "XR", "status": "In Progress", "date": "2024-02-04" },
+  { "id": 3, "patient": "Adam Ray", "modality": "MR", "status": "Queued", "date": "2024-02-03" }
+]
